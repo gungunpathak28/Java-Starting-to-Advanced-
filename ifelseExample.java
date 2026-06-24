@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class ifelseExample {
     public static void main(String[] args) {
 
