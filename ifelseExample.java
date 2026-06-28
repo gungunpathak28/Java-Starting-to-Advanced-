@@ -6,7 +6,6 @@ public class ifelseExample {
         int num = sc.nextInt();
         System.out.print("Enter a number: ");
         int nu = sc.nextInt();
-
         if (num % 2 == 0) {
             System.out.println("Even number");
         } else {
