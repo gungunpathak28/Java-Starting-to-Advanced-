@@ -11,7 +11,6 @@ public class ifelseExample {
         } else {
             System.out.println("Odd number");
         }
-
         sc.close();
     }
 }
