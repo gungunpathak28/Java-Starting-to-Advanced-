@@ -1,4 +1,3 @@
-
 public class JavaFirstProgram {
 
 	public static void main(String[] args) {
