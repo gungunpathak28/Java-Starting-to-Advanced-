@@ -14,5 +14,4 @@ public class NumberCheck {
 		sc.close();
 
 	}
-
 }
