@@ -12,6 +12,6 @@ public class NumberCheck {
 			System.out.print("number is zero");
 		}
 		sc.close();
-
 	}
 }
+
